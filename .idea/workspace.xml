@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0860fdd-910f-4da8-a789-7ff820c4565a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/messages/index.html.erb" afterPath="$PROJECT_DIR$/app/views/messages/index.html.erb" />
-    </list>
+    <list default="true" id="d0860fdd-910f-4da8-a789-7ff820c4565a" name="Default" comment="" />
     <ignored path="message-board.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.bundle/" />
@@ -1181,12 +1178,12 @@
       <option name="presentableId" value="Default" />
       <updated>1466781580743</updated>
       <workItem from="1466781584528" duration="2256000" />
-      <workItem from="1466830429990" duration="6918000" />
+      <workItem from="1466830429990" duration="7016000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9174000" />
+    <option name="totallyTimeSpent" value="9272000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
