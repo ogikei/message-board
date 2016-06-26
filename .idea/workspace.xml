@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d0860fdd-910f-4da8-a789-7ff820c4565a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/database.yml" afterPath="$PROJECT_DIR$/config/database.yml" />
     </list>
     <ignored path="message-board.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1303,12 +1300,12 @@
       <workItem from="1466781584528" duration="2256000" />
       <workItem from="1466830429990" duration="12959000" />
       <workItem from="1466884010081" duration="515000" />
-      <workItem from="1466915575201" duration="1783000" />
+      <workItem from="1466915575201" duration="1956000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17513000" />
+    <option name="totallyTimeSpent" value="17686000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
