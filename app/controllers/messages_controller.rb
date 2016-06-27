@@ -30,6 +30,10 @@ class MessagesController < ApplicationController
     end
   end
 
+  def show
+
+  end
+
   def destroy
     @message.destroy
     redirect_to root_path, notice: "メッセージを削除しました。"
