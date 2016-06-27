@@ -25,8 +25,9 @@ class MessagesController < ApplicationController
   def update
     if @message.update(message_params)
       redirect_to root_path, notice: "メッセージを編集しました。"
+    else
+      render 'edit'
     end
-      render "edit"
   end
 
   def destroy
